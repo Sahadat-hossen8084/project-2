@@ -1,0 +1,20 @@
+
+body {
+    background: url(../image/background\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 1500px;
+    font-family: 'Roboto Slab', serif;
+ 
+    
+}
+.container{
+    
+}
+.image{
+    width: 250px;
+ 
+
+}
+form{
+}
